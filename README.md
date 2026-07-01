@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Shiin2ii 👋
 
-<!--
-**Shiin2ii/shiin2ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building random things that somehow work.
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Discord+Developer;Spotify+Enthusiast;Automation+Builder;Always+Building+Something+Cool" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎵 Creating Spotify-related tools and experiments
+* 🤖 Building Discord automation projects
+* 🎨 UI/UX enthusiast
+* 💡 Turning weird ideas into real projects
+* 🌙 Usually coding when everyone else is sleeping
+
+## 🛠️ Tech Stack
+
+```txt
+JavaScript • TypeScript
+Node.js • React
+Discord.js • Spotify API
+Git • GitHub
+```
+
+## 🔥 Current Projects
+
+### Discord Lyrics Status
+
+Real-time Spotify lyrics displayed directly on Discord status.
+
+### Spotify Experiments
+
+Random tools and automation built around Spotify.
+
+### Open Source Stuff
+
+Sometimes useful, sometimes questionable.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiin2ii&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiin2ii&theme=transparent" />
+</p>
+
+## 🌐 Connect
+
+* Discord: `shiin2ii`
+* TikTok: @shiin2ii
+
+---
+
+### Motto
+
+> "Here for fun, not drama."
